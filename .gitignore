@@ -35,5 +35,8 @@
 *.app
 
 Debug/
+.settings/
+.cproject
+.project
 
 # End of https://www.gitignore.io/api/c++
